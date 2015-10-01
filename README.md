@@ -27,5 +27,19 @@ Usage
 
 Once the extension is installed, simply use it in your code by  :
 
+#### Application configuration
+
 ```php
-<?= \fengyh\mdmgr\AutoloadExample::widget(); ?>```
+'modules' => [
+    ...
+	'manual' => [
+        'class'  => 'fengyh\mdmgr\Module',
+    ],
+    ...
+],
+```
+
+#### Show UI
+
+Route `/manual`  shows the user interface.
+
