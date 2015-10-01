@@ -1,6 +1,6 @@
 Markdown manager with creating, editing, view etc. features
 ===========================================================
-An Yii2 extension, has a markdown editor supported by CKEditor, stores artical in db, one can create, edit, view and search the articles.
+An Yii2 extension, has a markdown editor supported by CKEditor, stores article in db, one can create, edit, view and search the articles by using this extension.
 
 Installation
 ------------
