@@ -1,0 +1,21 @@
+{
+    "name": "fengyh/yii2-mdmgr",
+    "description": "An Yii2 extension, has a markdown editor supported by CKEditor, stores artical in db, one can create, edit, view and search the articles.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "fengyh",
+            "email": "282055808@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "fengyh\\mdmgr\\": ""
+        }
+    }
+}
